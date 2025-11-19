@@ -12,3 +12,6 @@ fuzzywuzzy
 pynput
 python-Levenshtein
 livekit
+pywhatkit
+spotipy
+google-generativeai

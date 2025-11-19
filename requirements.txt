@@ -11,5 +11,4 @@ fuzzywuzzy
 pyautogui
 pynput
 python-Levenshtein
-pywin32
 livekit

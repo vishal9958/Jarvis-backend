@@ -1,0 +1,3 @@
+2025-11-17 14:10:17.274041: Controller auto-activated.
+2025-11-17 14:10:18.145696: Pressed key: win
+2025-11-17 14:10:20.148999: Controller auto-deactivated.

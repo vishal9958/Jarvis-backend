@@ -8,7 +8,7 @@ requests
 python-dotenv
 duckduckgo-search
 fuzzywuzzy
-pyautogui
+
 pynput
 python-Levenshtein
 livekit

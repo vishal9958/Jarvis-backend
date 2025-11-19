@@ -9,8 +9,9 @@ from fuzzywuzzy import process
 import webbrowser  # Yeh pehle se tha, ab iska istemal hoga
 
 try:
-    from livekit.agents import function_tool
-except ImportError:
+    import pygetwindow as gw
+except (ImportError, NotImplementedError, Exception):
+    gw = None
     def function_tool(func):
         return func
 
